@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "web.starwars.app", "web.starwars.app\web.starwars.app.csproj", "{EBE3CC58-7C33-451B-AAA9-11CFAED8631D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - WebUI", "1 - WebUI", "{3058D93E-F379-4E66-A6FF-24F1E50BA696}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Contracts and Models", "2 - Contracts and Models", "{77B07C7B-F9B5-4ECE-B40E-D9BC59A9419F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Services", "3 - Services", "{E133A0F2-67AB-49C3-923D-6E8CB4EDF1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE3CC58-7C33-451B-AAA9-11CFAED8631D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE3CC58-7C33-451B-AAA9-11CFAED8631D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE3CC58-7C33-451B-AAA9-11CFAED8631D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE3CC58-7C33-451B-AAA9-11CFAED8631D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBE3CC58-7C33-451B-AAA9-11CFAED8631D} = {3058D93E-F379-4E66-A6FF-24F1E50BA696}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8F79E6-09CC-4B04-AE38-B9C234D72C74}
+	EndGlobalSection
+EndGlobal
